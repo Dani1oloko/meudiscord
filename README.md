@@ -9,7 +9,7 @@
 <body>
     <h1>Entre no meu servidor do Discord!</h1>
     <p>Você não se arrenpederá, existem sorteios,<br>membros, calls, e hacks para sala do futuro!</p>
-    <button onclick="window.location.href='https://discord.gg/bwJA6s6F47'">Entre aqui!</button>
+    <a href="https://discord.gg/bwJA6s6F47" target="_blank">Entre no server aqui!</a>
     <p>servidor criado por 1dani_2<br>Redes Sociais:</p>
     <a href="https://www.tiktok.com/@corte_oloko?_t=ZM-8yzE8vbTU1w&_r=1">Tiktok</a><br>
     <a href="https://www.instagram.com/daniel_gk638/profilecard/?igsh=MTR5bGNhMjl2a2Rncw==">Instagram</a>
