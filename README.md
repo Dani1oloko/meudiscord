@@ -4,7 +4,7 @@
     <meta name="google-site-verification" content="Zxo7T1SEs_34flZ5worBkjaUjMi3l_Wk0LjPOdcwrcE" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>meudiscord</title>
     <link rel="stylesheet" href="tiv1.css">
 </head>
 <body>
